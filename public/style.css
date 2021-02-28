@@ -1,0 +1,169 @@
+body {
+  background-color: #0b003a;
+  overflow: scroll;
+}
+
+p, li {
+	color: white;
+	margin-right: 20px;
+	margin-left: 20px;
+	font-family: "Selavik", sans-serif;
+}
+.title {
+  margin-top: 2%;
+  margin-left: 1%;
+  font-family: Aileron;
+  font-size: 400%;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #55dfb0;
+  text-decoration: none;
+}
+
+.sub {
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  font-family: Aileron;
+  font-size: 300%;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #55dfb0;
+}
+
+.Rectangle1 {
+  width: 300px;
+  height: 60px;
+  margin-top: 20px;
+  margin-bottom:20px;
+  padding: 7px 15px 6.5px 13.5px;
+  border-radius: 30px;
+  box-shadow: 0 1.5px 3px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  cursor: pointer;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+.subject {
+  font-family: Aileron;
+  font-size:  40px;
+  font-weight: 600;
+  text-decoration: none;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+}
+
+#categorie {
+  margin: 129px 212.5px 12px 10px;
+  font-family: Aileron;
+  font-size: 300%;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.row {
+	display: flex;
+    overflow: scroll;
+	padding: 20px;
+}
+
+.card {
+  text-decoration: none;
+  padding: 5%;
+  width: 300px;
+  height: 100px;
+  margin: 0 17.5px 0 0;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #f960e8, #f3b7ff);
+}
+
+h4 {
+	font-family: Aileron;
+	color:white;
+}
+.card2 {
+   
+   text-decoration: none;
+  padding: 5%;
+  width: 300px;
+   height: 100px;
+  margin: 0 17.5px 0 0;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #4e72ff, #862ae1);
+}
+
+.card3 {
+   
+   text-decoration: none;
+  padding: 5%;
+  width: 300px;
+  height: 100px;
+  margin: 0 17.5px 0 0;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #fc9132, #ffe95a);
+}
+
+
+.card4 {
+   
+   text-decoration: none;
+  padding: 5%;
+  width: 300px;
+   height: 100px;
+  margin: 0 17.5px 0 0;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #ffffff, #dce5ee, #ffffff);
+}
+
+.card5 {
+   
+   text-decoration: none;
+  padding: 5%;
+  width: 300px;
+   height: 100px;
+  margin: 0 17.5px 0 0;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #bcf6d7, #88bcff);
+}
+
+.card6 {
+  
+   text-decoration: none;
+  padding: 5%;
+  width: 300px;
+   height: 100px;
+  margin: 0 17.5px 0 0;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom, #fc9132, #ffe95a);
+}
+
+.name {
+  font-family: Aileron;
+  font-size: 35px;
+  font-weight: 900;
+  text-decoration: none;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
